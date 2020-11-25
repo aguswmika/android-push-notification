@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClientNotification</string>
+    <string name="msg_token_fmt">format</string>
+</resources>
